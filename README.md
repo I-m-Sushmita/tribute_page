@@ -21,7 +21,7 @@ This is a simple tribute page dedicated to Netaji Subhas Chandra Bose, an Indian
 
 ## Usage
 
-  1. Open the index.html file in any web browser to view the tribute page.
+  1. Open the (https://i-m-sushmita.github.io/tribute_page/) to view the tribute page.
 2. To modify the content, edit the `index.html` file.
 3. To change the styling, edit the `styles.css` file.
 
